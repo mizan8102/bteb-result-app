@@ -54,7 +54,7 @@ const FormComponent = () => {
                   <option >select your semester</option>
                   <option value="4">4th</option>
                   <option value="6">6th</option>
-                  {/* <option value="8">8th</option> */}
+                  <option value="8">8th</option>
                 </select>
                 
             </div>
