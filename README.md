@@ -11,7 +11,7 @@
 
 
 ### Apps demo link
-(https://btebresult.vercel.app/)
+https://btebresult.vercel.app
 
 # Getting Started with Create React App
 
