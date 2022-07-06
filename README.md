@@ -1,13 +1,14 @@
 #App Screenshot
 
 ## Home Screenshot
-![screencapture-btebresult-vercel-app-2022-07-06-10_01_22](https://user-images.githubusercontent.com/67528018/177475571-46fba354-c0dc-4e47-a68a-05d9ba698aa6.png)
+![Capture](https://user-images.githubusercontent.com/67528018/177480614-2410b944-b630-44eb-9c50-b9ee7463b050.PNG)
 
 ## Result Search Page
-![screencapture-btebresult-vercel-app-result-2022-07-06-10_01_49](https://user-images.githubusercontent.com/67528018/177475615-4c74b80e-70ed-44ea-a3d8-4f91186efbf2.png)
+![resultshow](https://user-images.githubusercontent.com/67528018/177480684-98b19179-5f07-4dcc-9e72-4d8c605d9b17.PNG)
 
 ## Result Show Page
-![screencapture-btebresult-vercel-app-result-2022-07-06-11_22_54](https://user-images.githubusercontent.com/67528018/177475636-c7eb8bf0-72dc-4070-9e96-1e489c068699.png)
+![screencapture-btebresult-vercel-app-result-2022-07-06-11_22_54](https://user-images.githubusercontent.com/67528018/177480718-26e0da32-43b8-4c89-aeab-8f773251cab0.png)
+
 
 ### Apps demo link
 (https://btebresult.vercel.app/)
